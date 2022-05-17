@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      my react projects
+      my react projects with myn pc
     </div>
   );
 }
